@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/react-app/static/css/main.9ad469f8.css",
-    "main.js": "/github.io/react-app/static/js/main.0d15072c.js",
-    "index.html": "/github.io/react-app/index.html",
-    "main.9ad469f8.css.map": "/github.io/react-app/static/css/main.9ad469f8.css.map",
-    "main.0d15072c.js.map": "/github.io/react-app/static/js/main.0d15072c.js.map"
+    "main.css": "/github.io/appract/static/css/main.9ad469f8.css",
+    "main.js": "/github.io/appract/static/js/main.0d15072c.js",
+    "index.html": "/github.io/appract/index.html",
+    "main.9ad469f8.css.map": "/github.io/appract/static/css/main.9ad469f8.css.map",
+    "main.0d15072c.js.map": "/github.io/appract/static/js/main.0d15072c.js.map"
   },
   "entrypoints": [
     "static/css/main.9ad469f8.css",
